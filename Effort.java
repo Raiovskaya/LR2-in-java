@@ -13,7 +13,6 @@ public class Effort {
               }
               iter.next();
           }
-System.out.println(num);
           return num;
     }
 }
